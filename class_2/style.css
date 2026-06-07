@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: aqua;
+    padding: 3px;
+    border: 2px dotted black;
+}
+
+
+h1{
+    background-color: blue;
+    width: 400px;
+    margin: 0px;
+}
+
+main{
+    background-color: chartreuse;
+    /* margin: 10px; */
+
+    /* short hand form for TB and LR
+    margin: 10px 5px; */
+    /* top, right, botton, left */
+    margin: 10px 20px 15px 5px;
+    padding: 5px;
+    border: 2px dotted black;
+}
+.c1 {
+    background-color: blueviolet;
+}
+.c2 {
+    background-color: chocolate;
+}
+.circle{
+    margin:10px auto;
+    background-color: burlywood;
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+
+
+
